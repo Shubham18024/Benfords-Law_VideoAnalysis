@@ -1,6 +1,6 @@
 # Benford's Law Video Analysis
 
-![Project Logo](link-to-logo) <!-- Add a stylish logo for visual appeal -->
+
 
 ## Overview
 
@@ -12,10 +12,24 @@ The Benford's Law Video Analysis project is a Python tool that transforms video 
 - **Histogram Wonderland:** Create vivid histograms showcasing the enchanting first digit occurrences.
 - **Average Magic:** Unveil the average histogram, a magical amalgamation of all frame journeys.
 
-## 🛠️ How to Use
-
-1. **Clone the Repository:**
-
-   ```bash
-   git clone https://github.com/Shubham18024/Benfords-Law_VideoAnalysis.git
-   ```
+## Install Enchantment
+``` bash
+pip install -r requirements.txt
+```
+## 🌈 Dependencies
+```
+OpenCV
+NumPy
+Pillow (PIL)
+Matplotlib
+scipy
+```
+## 📜 License
+This project is licensed under the MIT License - see the LICENSE.txt file for details.
+## 🙌 Acknowledgments
+Inspired by the Netflix documentary : The hidden science of everything.
+## 🤝 Contributing
+Contributions are welcome! Open an issue or submit a pull request.
+## 📧 Contact
+Shubham Tiwari
+<shubh.tiwari2244@gmail.com>
